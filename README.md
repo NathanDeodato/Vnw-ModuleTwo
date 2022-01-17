@@ -37,6 +37,10 @@
     <img src="/Assets/Javascript.svg" width="100px" align="center">
 </p>
 
+<p align="center">
+    <img src="/Assets/reactIcon.svg" width="100px" align="center">
+</p>
+
 ---
 
 <section align="center">
