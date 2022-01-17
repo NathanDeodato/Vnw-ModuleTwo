@@ -1,7 +1,3 @@
-<h1 align="center">
-    VaiNaWeb
-</h1>
-
 <p align="center">
     <img src="/Assets/VaiNaWeb-Icon.svg" width="100px" >
 </p>
