@@ -2,6 +2,12 @@
     VaiNaWeb
 </h1>
 
+<p align="center">
+    <img src="/Assets/VaiNaWeb-Icon.svg" width="100px" >
+</p>
+
+---
+
 <h2 align="center">
     Module Two
 </h2>
@@ -30,12 +36,9 @@
 - []
 
 ---
-<p align="center">
-    <img src="/Assets/Javascript.svg" width="100px" align="center">
-</p>
 
 <p align="center">
-    <img src="/Assets/VaiNaWeb-Icon.svg" width="100px" >
+    <img src="/Assets/Javascript.svg" width="100px" align="center">
 </p>
 
 ---
