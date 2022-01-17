@@ -26,13 +26,16 @@
 - []
 
 ---
+<p align="center">
+    <img src="/Assets/Javascript.svg" width="200px" align="center">
+</p>
 
-<img src="/Assets/Javascript.svg" width="200px" align="center">
-
-<img src="/Assets/VaiNaWeb-Icon.svg" width="200px" align="center">
+<p align="center">
+    <img src="/Assets/VaiNaWeb-Icon.svg" width="200px" >
+</p>
 
 ---
 
-<section>
+<section align="center">
     <img src="https://img.shields.io/static/v1?label=Code&message=N-CCC&color=1C1C1C&style=for-the-badge&logo=GHOST" alt="ntShield">
 </section>
