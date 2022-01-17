@@ -27,11 +27,11 @@
 
 ---
 <p align="center">
-    <img src="/Assets/Javascript.svg" width="200px" align="center">
+    <img src="/Assets/Javascript.svg" width="100px" align="center">
 </p>
 
 <p align="center">
-    <img src="/Assets/VaiNaWeb-Icon.svg" width="200px" >
+    <img src="/Assets/VaiNaWeb-Icon.svg" width="100px" >
 </p>
 
 ---
