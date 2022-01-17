@@ -27,9 +27,9 @@
 
 ---
 
-<img src="/Assets/Javascript.svg">
+<img src="/Assets/Javascript.svg" width="200px" align="center">
 
-<img src="/Assets/VaiNaWeb-Icon.svg">
+<img src="/Assets/VaiNaWeb-Icon.svg" width="200px" align="center">
 
 ---
 
