@@ -1,4 +1,4 @@
-# Tipos de dados simples
+# Logica - JS
 * 12/01/2022
 * 2° Módulo
 
@@ -10,7 +10,7 @@
     ~~~Javascript
         
         console.log(variável)
-        
+
     ~~~
 
 ## Variáveis
@@ -103,7 +103,7 @@
 
     ~~~
     
-## Exercício de aula
+## Atividade in class
 
 ~~~Javascript
     var nome = "VaiNaWeb"
