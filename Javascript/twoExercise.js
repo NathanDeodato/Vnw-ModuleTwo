@@ -20,31 +20,62 @@ Exercícios bônus
 
 */
 
-
 // Start Code!
 
 let idade = 20
 let humano = true
 let birthday = "Maio"
 
+//1
+if(idade >= 18){
+    console.log("Você JÁ responde por seu atos.")
+}else{
+    console.log("Você NÃO responde por seu atos.")
+}
 
+// Divisor
+
+console.log("----------")
+
+// 2
 if(idade >= 18 && humano == true){
-    console.log("Ok! Você é maior de idade.")
+    console.log("Ok! Você é maior de idade e Humano.")
 }
 
-if(birthday == "Janeiro" || "Dezembro"){
+// Divisor
+
+console.log("----------")
+
+// 3
+if(birthday == "Janeiro" && "Dezembro"){
     console.log("Parabéns! Muita saúde, paz e sucesso!")
+}else {
+    console.log("Infelizmente não é seu niver, mas uma hora chega! :)")
 }
+
+// Divisor
+
+console.log("----------")
 
 // Script extra!
 
-let nome = "Nathan"
+let nome = "rNathan"
 let sobrenome = "Deodato"
 
+// 4
 if(nome[0] == "r"){
-    console.log("Verificado. Seu nome tem a letra 'r'")
+    console.log("Verificado. Seu nome COMEÇA a letra 'r'")
+}else{
+    console.log("Verificado. Seu nome NÃO COMEÇA com a letra 'r'")
 }
 
+// Divisor
+
+console.log("----------")
+
+// 5
 if(sobrenome.length > 6 || nome[0] == "E"){
-    console.log("Verificado. Seu nome atende a um dos requisitos necessário.")
+    console.log("Verificado. Seu nome ATENDE a um dos requisitos necessário.")
+}else{
+    console.log("Verificado. Seu nome NÃO ATENDE a nenhum dos requisitos necessário.")
 }
