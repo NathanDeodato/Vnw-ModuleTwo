@@ -21,14 +21,14 @@ Exercícios bônus
 */
 
 
-// Start script!
+// Start Code!
 
-let idade = 16
+let idade = 20
 let humano = true
 let birthday = "Maio"
 
 
-if(idade > 18 & humano == true){
+if(idade >= 18 && humano == true){
     console.log("Ok! Você é maior de idade.")
 }
 

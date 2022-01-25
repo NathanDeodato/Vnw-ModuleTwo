@@ -19,7 +19,7 @@ Requisitos do exercício
 */
 
 
-// Start script!
+// Start Code!
 
 let name = "Nathan"
 
