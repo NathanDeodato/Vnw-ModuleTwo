@@ -101,3 +101,15 @@ O array é um conjunto de elementos atribuidos a uma mesma variável.
     console.log(linguagens.pop())
 
 ~~~
+
+* splice
+    - Adiciona, remove ou substitui um elemento
+
+~~~javaScript
+
+    let linguagens = ["Python", "Javascript", "Typescript", "Elixer"]
+
+    console.log(linguagens.pop())
+
+~~~
+

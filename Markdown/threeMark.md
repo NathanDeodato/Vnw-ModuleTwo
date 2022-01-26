@@ -8,11 +8,47 @@
 
 ## Incremento e decremento
 
+* Incremento
+    -
 
+~~~javascript
+    
+    let num = 0
+
+    console.log(num += 2)
+
+~~~
+
+* Decremento
+    -
+
+~~~javascript
+    
+    let num = 0
+
+    console.log(num += 2)
+
+~~~
 
 ## Loops
 
+* for
+    -
 
+~~~Javascript
+
+
+
+~~~
+
+* while
+    -
+
+~~~Javascript
+
+
+
+~~~
 
 ## Atividade in class
 
