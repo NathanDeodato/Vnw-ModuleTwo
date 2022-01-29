@@ -18,18 +18,23 @@
 
 ---
 
-<h2 align="center">Estruturas</h2>
+<h2 align="center">Estrutura lógica</h2>
 
 - [x] Variáveis
 - [x] Tipos de dados
 - [x] Operadores de compração
 - [x] Operadores lógicos
 - [x] Condições
+- [x] Loops
+- [x] Array
+- [x] Switch
+
+<h2 align="center">Estruturas React</h2>
+
 - [] 
 - [] 
-- []
-- []
-- []
+- [] 
+- [] 
 
 ---
 
