@@ -31,12 +31,13 @@
 
 <h2 align="center">Estruturas React</h2>
 
-- [] 
-- [] 
+- [x] Instalação do NodeJS
+- [x] Inicialização do projeto React
+- [x] Estrutura básica do ReactJS
 - [] 
 - [] 
 
----
+--
 
 <p align="center">
     <img src="/Assets/Javascript.svg" width="100px" align="center">
