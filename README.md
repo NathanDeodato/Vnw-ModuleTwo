@@ -31,9 +31,9 @@
 
 <h2 align="center">Estruturas React</h2>
 
-- [] 
-- [] 
-- [] 
+- [x] Instalação do Node 
+- [x] Inicialização de projeto React
+- [x] Estrutura básica React
 - [] 
 
 ---
